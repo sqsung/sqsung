@@ -3,6 +3,7 @@
   <img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=sqsung&theme=dark' alt='github streak'/>
 
 <!--   <h2 font-size='12px'>Hi, there! My name is James. </h2> -->
+  <br />
   
 ### Hi, there! Welcome to my profile!
   <h2> </h2>
@@ -18,7 +19,7 @@
   <br />
   
   <a href='mailto: rok.ksohn@gmail.com'><img src="https://img.shields.io/badge/Feel free to email me!-black?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href='velog.io/@sqsung'><img src="https://img.shields.io/badge/Or come visit my devlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href='https://velog.io/@sqsung'><img src="https://img.shields.io/badge/Or come visit my devlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
   
 </div>
