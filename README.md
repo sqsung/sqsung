@@ -3,7 +3,6 @@
   <img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=sqsung&theme=dark' alt='github streak'/>
 
 <!--   <h2 font-size='12px'>Hi, there! My name is James. </h2> -->
-  <br />
   
 ### Hi, there! Welcome to my profile!
   <h2> </h2>
