@@ -1,6 +1,6 @@
 <div align='center'>
   
-  <img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=sqsung' alt='github streak'/>
+  <img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=sqsung&theme=dark' alt='github streak'/>
 
 <!--   <h2 font-size='12px'>Hi, there! My name is James. </h2> -->
   
